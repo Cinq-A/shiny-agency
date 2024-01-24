@@ -8,7 +8,7 @@ import ClientForm from './components/ClientForm'
 import FreelanceForm from './components/FreelanceForm'
 
 
-const Amer="5";
+
 ReactDOM.render(
    
   <React.StrictMode>
